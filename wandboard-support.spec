@@ -5,7 +5,7 @@
 Summary:	Firmware & tools for Wandboard support
 Name:		wandboard-support
 Version:	1.0
-Release:	2
+Release:	3
 License:	Proprietary ASL 2.0 GPLv3
 Group:		System/Kernel and hardware
 URL:		https://abf.io/software/wandboard-support
