@@ -15,6 +15,7 @@ Requires:	%{name}-bcm43xx-wifi-firmware = %{EVRD}
 Requires:	%{name}-vpu-firmware = %{EVRD}
 ExclusiveArch:	armv7hl armv7hnl
 
+BuildRequires:	make
 %description
 This package contains scripts and firmware to support the Wandboard.
 
